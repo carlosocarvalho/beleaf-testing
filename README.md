@@ -22,7 +22,7 @@ Seguinte os desafios na lista a seguir
 
 **Feature Documentação**
 - [x] Documentar api
-- [ ] Documentar instalacao local
+- [x] Documentar instalação local
 
 **Feature Project Running**
 - [x] Versao online do projeto
