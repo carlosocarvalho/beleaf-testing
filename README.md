@@ -1,8 +1,11 @@
 # beleaf-testing
 
-Projeto baseado das demandas para o test.
+Projeto consistem na criação de um cardapio simples.
+Seguinte os desafios na lista a seguir
 
-<a href="http://beleaf.carlosocarvalho.com.br/" target="_blank">Projeto Demo</a>
+
+<a href="http://beleaf.carlosocarvalho.com.br/" target="_blank">Cardapio Online - Beleaf Lab</a>
+
 
 ## Task Desafio
 
@@ -16,3 +19,11 @@ Projeto baseado das demandas para o test.
 - [x] Criar conta
 - [x] Autenticar usuario
 - [x] logout da conta
+
+**Feature Documentação**
+- [x] Documentar api
+- [] Documentar instalacao local
+
+**Feature Project Running**
+
+- [x] Versao online do projeto
